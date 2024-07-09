@@ -1,0 +1,7 @@
+com/infybuzz/request/CreateAddressRequest.class
+com/infybuzz/entity/Address.class
+com/infybuzz/response/AddressResponse.class
+com/infybuzz/AddressServiceApplication.class
+com/infybuzz/controller/AddressController.class
+com/infybuzz/service/AddressService.class
+com/infybuzz/repository/AddressRepository.class

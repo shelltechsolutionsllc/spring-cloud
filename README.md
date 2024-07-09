@@ -115,4 +115,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please contact [ShellTech Solutions LLC](mailto:support@shelltechsolutionsllc.com).
+For questions or support, please contact [ShellTech Solutions LLC](mailto:info@monis-consulting.com).
